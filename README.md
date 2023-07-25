@@ -7,9 +7,3 @@
 | 百度停用词表                   | baidu\_stopwords.txt |
 | 四川大学机器智能实验室停用词库 | scu\_stopwords.txt   |
 | 复旦大学停用词表 | fdu\_stopwords.txt   |
-
-<!--
-### GitHub仓库星标统计
-<!--替换成自己的仓库和名字就可以用了-->
-[![Stargazers over time](https://starchart.cc/goto456/stopwords.svg)](https://starchart.cc/goto456/stopwords)
--->
