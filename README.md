@@ -10,7 +10,7 @@
 
 请吃辣条
 
-![](https://raw.githubusercontent.com/goto456/markdown-pictures/master/wengeblog/re2.jpg)
+![](https://raw.githubusercontent.com/goto456/markdown-pictures/master/wengeblog/wechatpay3.jpg)
 
 ### GitHub仓库星标统计
 <!--替换成自己的仓库和名字就可以用了-->
